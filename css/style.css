@@ -7,3 +7,7 @@ body{
     text-align: left;
     border: 1px solid #ddd;
 }
+#cabecera{
+    background-color: black;
+    color: white;
+}
